@@ -19,13 +19,5 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
-<!--
-<details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
--->
 [website]: https://manovjain.com
 [linkedin]: https://www.linkedin.com/in/manov-jain/
