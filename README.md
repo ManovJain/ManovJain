@@ -3,7 +3,7 @@
 
 ### 🌎 Manov Jain
 
-**Design iOS Engineer**
+**Design Engineer**
 
 ---
 
