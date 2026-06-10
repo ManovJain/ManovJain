@@ -3,7 +3,7 @@
 
 ### 🌎 Manov Jain
 
-**Design Engineer**
+**Software Engineer**
 
 ---
 
